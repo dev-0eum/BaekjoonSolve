@@ -1,5 +1,6 @@
 # BaekjoonSolve
 ### Goal: Solving Algorithms
+#### Language: Python, Java
 
 ### Refer
 #### Setting
@@ -7,3 +8,9 @@
 
 #### Solving Order
 - https://code.plus/course/41
+
+#### Completed
+1. 10828 Stack(Silver)
+
+#### Challenging
+1.
