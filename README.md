@@ -11,7 +11,8 @@
 - https://code.plus/course/41
 
 #### Completed
-1. 10828 Stack(Silver)
+1. 10828 Stack(Silver) [Python, Java]
+2. 9093 Reverse Sentence(Bronse) [Python]
 
 #### Challenging
 1.
