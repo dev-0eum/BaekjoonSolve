@@ -17,4 +17,7 @@
 4. 1406 Editor [Python]
 
 #### Challenging
-1.
+1. 1463 MakeOne [Python]
+
+### How to solve Dynamic Programming(DP)
+https://bio-info.tistory.com/159 
