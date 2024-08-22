@@ -13,6 +13,8 @@
 #### Completed
 1. 10828 Stack(Silver) [Python, Java]
 2. 9093 Reverse Sentence(Bronse) [Python]
+3. 9012 VPS [Python]
+4. 1406 Editor [Python]
 
 #### Challenging
 1.
