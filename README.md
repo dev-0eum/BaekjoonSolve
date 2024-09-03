@@ -11,13 +11,12 @@
 - https://code.plus/course/41
 
 #### Completed
-1. 10828 Stack(Silver) [Python, Java]
-2. 9093 Reverse Sentence(Bronse) [Python]
-3. 9012 VPS [Python]
-4. 1406 Editor [Python]
+200 - Data Structure 1 (Basic)
+201 - Data Structure 1 (Mid)
+203 - Data Structure 1 (Advanced)
 
-#### Challenging
-1. 1463 MakeOne [Python]
+#### Need to Additional Practice
+1918 PostFix [Gold]
 
 ### How to solve Dynamic Programming(DP)
 https://bio-info.tistory.com/159 
