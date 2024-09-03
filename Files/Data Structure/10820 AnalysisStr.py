@@ -1,10 +1,8 @@
-# 소문자 대문자 숫자 공백
-
 import sys
+
 while True:
     line = sys.stdin.readline()
     if line == "":
-        print("STOP")
         break
      
     small = 0
@@ -14,14 +12,13 @@ while True:
 
     for x in line:
         if x.isalpha():
-            if ord(x) >= 97: # 소문자
-                pass
-            elif True:
-                pass
+            if ord(x) >= 97 and ord(x) <= 122:
+                small += 1
+            elif ord(x) >=65 and ord(x) <=90:
+                big += 1
         elif x.isnumeric():
             num += 1
         elif x == " ":
             blank += 1
     
-
-    print(line)
+    print(small,big,num,blank)
