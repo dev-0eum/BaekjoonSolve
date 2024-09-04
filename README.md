@@ -17,6 +17,7 @@
 
 #### Need to Additional Practice
 1918 PostFix [Gold]
+9095 OneTwoThree [Silver] : DP
 
 ### How to solve Dynamic Programming(DP)
 https://bio-info.tistory.com/159 
