@@ -26,3 +26,9 @@
 
 ### How to solve Dynamic Programming(DP)
 https://bio-info.tistory.com/159 
+https://duckracoon.tistory.com/entry/Python-Algorithm-Dynamic-Programming%EB%8F%99%EC%A0%81%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D
+
+* Memoization
+>> It needs to reduce calculation what is repeated.
+** Solve small size of problem first
+>> And find the rule of problem
