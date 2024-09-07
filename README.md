@@ -17,8 +17,12 @@
 
 #### Need to Additional Practice
 1918 PostFix [Gold]
+
 9095 OneTwoThree [Silver] : DP
+
 11052 PS Card [Silver] : DP
+
+2225 AddSeperation [Gold] : DP
 
 ### How to solve Dynamic Programming(DP)
 https://bio-info.tistory.com/159 
