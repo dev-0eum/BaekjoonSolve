@@ -1,18 +1,20 @@
 import sys
 
 cnt = int(sys.stdin.readline())
-tree={}
-for x in range(1,cnt+1):
-    tree[x]=[0,0]
+tree=[[] for _ in range(cnt+1)]
+visited = [0 for _ in range(cnt+1)]
 
 for _ in range(cnt-1):
-    root, child = map(int,sys.stdin.readline().split())
-    if tree[root][0] == 0:
-        tree[root][0] = child
-    else:
-        tree[root][1] = child
+    n1, n2 = map(int,sys.stdin.readline().split())
+    tree[n1].append(n2)
+    tree[n2].append(n1)
 
-# for x in range(cnt-1):
-#     print()
+def dfs(v):
+    for i in tree[v]:
+        if visited[i] == 0:
+            visited[i] = v
+            dfs(i)
 
-print(tree)
+dfs(1)
+for target in range(2,cnt+1):
+    print(visited[target])
